@@ -2,29 +2,27 @@
 <all>
 	<config>
 		<baseurl>http://daddyleagues.com/</baseurl>
-		<league>TSL</league>
-		<cmdprefix>?</cmdprefix>
+		<league>eAthlete</league>
+		<cmdprefix>!</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
 	</config>
 	<info>
-		<league>The Test League (TTL)</league>
-		<commish>put commish name here</commish>
-		<rules>put rules link here</rules>
-		<owners>put owners link here</owners>
-		<advance>9/3, 5pm Central</advance>
-		<draft>9/3, 5pm Central</draft>
-		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot</botdev>
+		<league>e-Athlete</league>
+		<commish>STuDS0N (the 0 is a zero)</commish>
+		<rules>http://www.daddyleagues.com/eAthlete/rules</rules>
+		<advance>11 PM EST Sunday 10-30-16</advance>
+	<sb>Season 1 Super Bowl Champ - Bubba Kush (Patriots)</sb>
 	</info>
 	<img>
 		<scalp>https://symonsez.files.wordpress.com/2009/08/scalp_edited.jpg</scalp>
 		<ring>http://vignette3.wikia.nocookie.net/lotr/images/9/9b/TheOneRing.jpg</ring>
 	</img>
 	<youtube>
+		<signman>https://www.youtube.com/channel/UCzLK6pOdCYmkEWWoEIxOJ2g</signman>
 	</youtube>
 	<custom>
 		<hello>hello world!</hello>
-		<tiebreakers>http://www.nfl.com/standings/tiebreakingprocedures</tiebreakers>
 	</custom>
 	<rings>
 	</rings>
@@ -42,12 +40,12 @@
 		
 		<bal/>
 		<cin/>
-		<cle/>
+		<cle>studs0n</cle>
 		<pit/>
 		
 		<hou/>
 		<ind/>
-		<jax/>
+		<jac/>
 		<ten/>
 		
 		<den/>
@@ -55,7 +53,7 @@
 		<oak/>
 		<sd/>
 		
-		<dal/>
+		<dal>primetimecsu</dal>
 		<nyg/>
 		<phi/>
 		<was/>
@@ -75,29 +73,30 @@
 		<sf/>
 		<la/>
 	</twitch>
-	<simscores>
-	</simscores>
 	<magic8ball>
-		<reply>It is certain</reply>
+		<reply>As sure as Kevcudi likes men</reply>
 		<reply>It is decidedly so</reply>
 		<reply>Without a doubt</reply>
 		<reply>Yes, definitely</reply>
-		<reply>You may rely on it</reply>
+		<reply>There is a 69% chance you are correct and a 69% chance that you are wrong</reply>
 		<reply>As I see it, yes</reply>
 		<reply>Most likely</reply>
 		<reply>Outlook good</reply>
 		<reply>Yes</reply>
 		<reply>Signs point to yes</reply>
-		<reply>Reply hazy. Try again</reply>
+		<reply>A troll named PrimeTimeCSU</reply>
 		<reply>Ask again later</reply>
 		<reply>Better not tell you</reply>
-		<reply>Cannot predict now</reply>
-		<reply>Concentrate and ask again</reply>
-		<reply>Don't count on it</reply>
+		<reply>You got Belbaned</reply>
+		<reply>I'm sorry, the 8ball is down for maintenance</reply>
 		<reply>My reply is no</reply>
 		<reply>My sources say no</reply>
 		<reply>Outlook not so good</reply>
 		<reply>Very doubtful</reply>
+		<reply>That question is so dumb it sounds like one Jameis Winston would ask. Have you ever stolen crab legs?</reply>
+		<reply>My attorney has asked me not to comment on that</reply>
+		<reply>The chances are the same as Bubbakush winning a Super Bowl</reply>
+		<reply>Survey says....NO!</reply>
 	</magic8ball>
 	<emoji>
 		<wary>https://external-dft4-1.xx.fbcdn.net/safe_image.php?d=AQBrs2kQWoDr4JeY&amp;url=http%3A%2F%2Fprofile.ak.fbcdn.net%2Fhprofile-ak-snc4%2F373572_309448622428615_1815569583_q.jpg</wary>
@@ -178,3 +177,4 @@
 		<ninja>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/ninja_80_anim_gif.gif?width=40&amp;amp;height=40</ninja>
 	</emoji>
 </all>
+
